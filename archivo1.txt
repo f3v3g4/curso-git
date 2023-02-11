@@ -1,2 +1,1 @@
-hola mundo 
-cambio 1 en rama c
+curso de git 
